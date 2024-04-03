@@ -3,3 +3,5 @@ bin/*
 lib/
 src/core/settings.py
 src/db*
+.pyc
+
